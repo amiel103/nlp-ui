@@ -18,7 +18,7 @@
       dark
       color="info"
     >
-      Please Wait
+      Please wait for comments to load. Most of the comments are labeled compliment and others.
     </v-alert>
     <v-alert
       :value="alertDone"
@@ -274,9 +274,9 @@ export default {
       corrections:[],
       comments:[{
           "cid": "UgyA4KKWFUokLTGo-TJ4AaABAg",
-          "text": "suggestion only.",
+          "text": " Welcome to youtube comment labeler. It works by submitting a youtube video link then comments are loaded after a few seconds.  ",
           "time": "2 hours ago",
-          "author": "jenn zue Dioquino",
+          "author": "Slade Wilson",
           "channel": "UC9DNF86O49sXZ5HMaeP5waw",
           "votes": 0,
           "photo": "https://yt3.ggpht.com/ytc/AMLnZu_7QvGF7qoiXvOickLl04ApfiR4cGKyRx_O7HXv=s176-c-k-c0x00ffffff-no-rj",
@@ -285,9 +285,9 @@ export default {
           "class_label": "suggestion"
         },{
           "cid": "UgzcLKVcqi6hyiBAWNZ4AaABAg",
-          "text": "is this a question?",
+          "text": "Most comments are labeled as compliment or others. Submitting corrections currently not available.",
           "time": "22 hours ago",
-          "author": "Gian Carlo Busto Sumalinog",
+          "author": "Malcolm Merlyn",
           "channel": "UC0ZiMSPveyDxaxgsLhik2SA",
           "votes": 0,
           "photo": "https://yt3.ggpht.com/ytc/AMLnZu9jZ6Kw1RP_Kn-DhNfb2C62paOxAbVlLBOKMw=s176-c-k-c0x00ffffff-no-rj",
@@ -296,9 +296,9 @@ export default {
           "class_label": "question"
         },{
           "cid": "UgzcLKVcqi6hyiBAWNZ4AaABAg",
-          "text": "shout out shoutout",
-          "time": "22 hours ago",
-          "author": "Gian Carlo Busto Sumalinog",
+          "text": "Most comments are labeled as compliment or others. Submitting corrections currently not available.",
+          "time": "12 hours ago",
+          "author": "Ra's al Ghul",
           "channel": "UC0ZiMSPveyDxaxgsLhik2SA",
           "votes": 0,
           "photo": "https://yt3.ggpht.com/ytc/AMLnZu9jZ6Kw1RP_Kn-DhNfb2C62paOxAbVlLBOKMw=s176-c-k-c0x00ffffff-no-rj",
@@ -307,9 +307,9 @@ export default {
           "class_label": "shoutout"
         },{
           "cid": "UgzcLKVcqi6hyiBAWNZ4AaABAg",
-          "text": "this is compliment",
+          "text": "Most comment goes here",
           "time": "22 hours ago",
-          "author": "Gian Carlo Busto Sumalinog",
+          "author": "Damien Darhk",
           "channel": "UC0ZiMSPveyDxaxgsLhik2SA",
           "votes": 0,
           "photo": "https://yt3.ggpht.com/ytc/AMLnZu9jZ6Kw1RP_Kn-DhNfb2C62paOxAbVlLBOKMw=s176-c-k-c0x00ffffff-no-rj",
@@ -318,9 +318,9 @@ export default {
           "class_label": "compliment"
         },{
           "cid": "UgzcLKVcqi6hyiBAWNZ4AaABAg",
-          "text": "this is others",
-          "time": "22 hours ago",
-          "author": "Gian Carlo Busto Sumalinog",
+          "text": "Most comment goes here",
+          "time": "12 hours ago",
+          "author": "Floyd Lawton",
           "channel": "UC0ZiMSPveyDxaxgsLhik2SA",
           "votes": 0,
           "photo": "https://yt3.ggpht.com/ytc/AMLnZu9jZ6Kw1RP_Kn-DhNfb2C62paOxAbVlLBOKMw=s176-c-k-c0x00ffffff-no-rj",
