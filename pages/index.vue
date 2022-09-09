@@ -279,7 +279,7 @@ export default {
           "author": "Slade Wilson",
           "channel": "UC9DNF86O49sXZ5HMaeP5waw",
           "votes": 0,
-          "photo": "https://yt3.ggpht.com/ytc/AMLnZu_7QvGF7qoiXvOickLl04ApfiR4cGKyRx_O7HXv=s176-c-k-c0x00ffffff-no-rj",
+          "photo": "https://yt3.ggpht.com/ytc/AMLnZu9jZ6Kw1RP_Kn-DhNfb2C62paOxAbVlLBOKMw=s176-c-k-c0x00ffffff-no-rj",
           "heart": false,
           "time_parsed": 1661261415.550021,
           "class_label": "suggestion"
