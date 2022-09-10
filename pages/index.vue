@@ -359,7 +359,8 @@ export default {
       
       if( isValidHttpUrl(urll) && urlID.length==2 ){
         let sss;
-        const headers = {'Access-Control-Allow-Origin' : '*'};
+        
+        const headers = { 'content-type': 'application/json' , 'Access-Control-Allow-Origin' : '*'};
         await axios.get('https://noembed.com/embed?url='+ urll ,headers).then(function (response) {
           sss = response['data']
           sss['url'] = sss['url']+'?feature=oembed'
